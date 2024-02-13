@@ -3,6 +3,7 @@
   position: relative;
   z-index: 1;
   padding-bottom: 2rem;
+
 }
 
 
@@ -35,10 +36,10 @@
   top: -10%;
   z-index: -1;
 }
-.secondaryText {
+.heroText {
   flex-wrap: wrap;
   width: 23rem;
-  /* font-size: 0.8rem; */
+
 }
 .search-bar {
   background-color: white;

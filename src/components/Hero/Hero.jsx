@@ -4,8 +4,8 @@ import CountUp from "react-countup";
 import { motion } from "framer-motion";
 const Hero = () => {
   return (
-    <section className="hero-wrapper">
-      <div className="paddings innerWidth flexCenter hero-container">
+    <section className="hero-wrapper ">
+      <div className="paddings innerWidth  flexCenter hero-container">
         {/* left side */}
         <div className="flexColStart hero-left">
           <div className="hero-title">
@@ -23,7 +23,7 @@ const Hero = () => {
               <br />Sales
             </motion.h1>
           </div>
-          <div className="flexColStart secondaryText flexhero-des">
+          <div className="flexColStart secondaryText heroText flexhero-des">
           This training is not for everyone as we can't accommodate everybody. It's meant for those who aspire to be among the top 10% in the industry that will be raking in 80% of the total commissions If this is you, then sign up ASAP!
 Come learn how to get your business in front of the right people at the right time, increasing your visibility, engagement, and ultimately, your revenue. With this workshop, you'll generate more leads, increase conversions, and close more sales
             {/* <span>Explore real estate as a wealth-building tool at</span>
