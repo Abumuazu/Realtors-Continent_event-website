@@ -19,7 +19,7 @@ function App() {
       {/* <Companies /> */}
       <Value/>
       <Contact/>
-      <Residencies/>
+      {/* <Residencies/> */}
       {/* <GetStarted/> */}
       <Footer/>
     </div>

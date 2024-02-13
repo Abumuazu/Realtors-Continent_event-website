@@ -35,6 +35,11 @@
   top: -10%;
   z-index: -1;
 }
+.secondaryText {
+  flex-wrap: wrap;
+  width: 23rem;
+  /* font-size: 0.8rem; */
+}
 .search-bar {
   background-color: white;
   border-radius: 5px;
@@ -61,11 +66,11 @@
 /* right side */
 
 .image-container {
-  width: 30rem;
+  width: 35rem;
   height: 35rem;
   overflow: hidden;
-  border-radius: 7rem 0rem 7rem 0;
-  border: 8px solid rgba(255, 255, 255, 0.12);
+  border-radius: 3rem 3rem 3rem 3rem;
+  /* border: 8px solid rgba(255, 255, 255, 0.12); */
 }
 .image-container>img{
     width: 100%;

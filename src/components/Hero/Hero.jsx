@@ -19,17 +19,19 @@ const Hero = () => {
             }}
             >
               Theme: <br />
-             Follow The
-              <br />Money
+            School of 
+              <br />Sales
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Explore real estate as a wealth-building tool at</span>
+          This training is not for everyone as we can't accommodate everybody. It's meant for those who aspire to be among the top 10% in the industry that will be raking in 80% of the total commissions If this is you, then sign up ASAP!
+Come learn how to get your business in front of the right people at the right time, increasing your visibility, engagement, and ultimately, your revenue. With this workshop, you'll generate more leads, increase conversions, and close more sales
+            {/* <span>Explore real estate as a wealth-building tool at</span>
             <span>FOLLOW THE MONEY— an event for business</span>
             <span>enthusiasts, content creators, and aspiring real</span>
             <span>estate entrepreneurs. Don't miss expert insights</span>
             <span>on entrepreneurship, content creation, and real</span>
-            <span>estate opportunities.</span>
+            <span>estate opportunities.</span> */}
            
           </div>
        
@@ -75,7 +77,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="./hero-image.jpg" alt="houses" />
+            <img src="./hero-image.png" alt="houses" />
           </motion.div>
         </div>
       </div>

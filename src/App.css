@@ -11,7 +11,7 @@
   position: absolute;
   width: 20rem;
   height: 20rem;
-  background: '#000'
+  background: '#000';
   filter: blur(100px);
   border-radius: 100px;
 }
